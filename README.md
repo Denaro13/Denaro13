@@ -21,6 +21,5 @@
 <a href="https://www.linkedin.com/in/usman-nurudeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usmannurudeen" height="30" width="40" /></a>
 </p>
 
-
-![Denaro13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denaro13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Denaro13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denaro13&theme=vue-dark&hide_border=true)
+![Denaro13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denaro13&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Denaro13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denaro13&theme=default&hide_border=true)
